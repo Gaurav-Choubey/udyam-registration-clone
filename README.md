@@ -2,6 +2,8 @@
 
 A full-stack clone of the official Udyam Registration portal built using **React** (frontend), **FastAPI** (backend), and a custom **scraper** module.
 
+![App Screenshot](scraper/udyam-ui/form.png)
+
 ## 🚀 Tech Stack
 
 - **Frontend:** React, TypeScript, TailwindCSS
