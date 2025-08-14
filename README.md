@@ -4,7 +4,6 @@ A full-stack clone of the official Udyam Registration portal built using **React
 
 ![Form Preview](scraper/udyam-ui/public/assets/form.png)
 
-
 ## 🚀 Tech Stack
 
 - **Frontend:** React, TypeScript, TailwindCSS
@@ -21,6 +20,7 @@ A full-stack clone of the official Udyam Registration portal built using **React
 ## 🧑‍💻 Getting Started
 
 ### 1. Clone the repo
+
 ```bash
 git clone https://github.com/Gaurav-Choubey/udyam-registration-clone.git
 cd udyam-registration-clone
